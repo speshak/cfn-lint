@@ -1,6 +1,6 @@
 # AWS CloudFormation Linter
 
-<img alt="[cfn-lint logo]" src="https://github.com/aws-cloudformation/cfn-python-lint/blob/master/logo.png?raw=true" width="150" align="right">
+<img alt="[cfn-lint logo]" src="https://github.com/aws-cloudformation/cfn-python-lint/blob/main/logo.png?raw=true" width="150" align="right">
 
 [![Testing](https://github.com/aws-cloudformation/cfn-python-lint/actions/workflows/test.yaml/badge.svg?branch=master)](https://github.com/aws-cloudformation/cfn-python-lint/actions/workflows/test.yaml)
 [![PyPI version](https://badge.fury.io/py/cfn-lint.svg)](https://badge.fury.io/py/cfn-lint)

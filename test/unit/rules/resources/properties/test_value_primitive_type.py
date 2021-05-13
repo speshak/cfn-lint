@@ -37,7 +37,7 @@ class TestResourceValuePrimitiveType(BaseRuleTestCase):
 
     def test_file_negative_nist_high_master(self):
         """Generic Test failure"""
-        self.helper_file_negative('test/fixtures/templates/quickstart/nist_high_master.yaml', 6)
+        self.helper_file_negative('test/fixtures/templates/quickstart/nist_high_main.yaml', 6)
 
     def test_file_negative_nist_high_app(self):
         """Generic Test failure"""
