@@ -27068,7 +27068,7 @@
       }
     }
   },
-  "ResourceSpecificationVersion": "36.0.0",
+  "ResourceSpecificationVersion": "37.0.0",
   "ResourceTypes": {
     "AWS::ACMPCA::Certificate": {
       "Attributes": {
@@ -48514,7 +48514,8 @@
     "AWS::ECS::Service.LaunchType": {
       "AllowedValues": [
         "EC2",
-        "FARGATE"
+        "FARGATE",
+        "EXTERNAL"
       ]
     },
     "AWS::ECS::Service.PlacementConstraint.Type": {
@@ -49462,7 +49463,8 @@
         "FLINK-1_11",
         "FLINK-1_6",
         "FLINK-1_8",
-        "SQL-1_0"
+        "SQL-1_0",
+        "ZEPPELIN-FLINK-1_0"
       ]
     },
     "AWS::KinesisFirehose::DeliveryStream.CopyCommand.DataTableName": {
